@@ -65,6 +65,7 @@ void ext_sort()
 }
 int main()
 {
+   
    cin >> b >> no_of_record_per_page >> records;
    int i = 0;
    vector<int> temp;
